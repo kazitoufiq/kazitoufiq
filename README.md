@@ -16,8 +16,8 @@ Literally everything with data!! 😊
 Languages: R, Python, Java, SQL, HTML, CSS, JavaScript
 
 Libraries: 
-  - R : dplyr, data.table, tidyr, ggplot2, plotly, purrr, caret, sp, igraph, tsclust, prophet etc.
   - Python : NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib etc.
+  - R : dplyr, data.table, tidyr, ggplot2, plotly, purrr, caret, sp, igraph, tsclust, prophet etc.
   
 
 
@@ -26,17 +26,17 @@ Libraries:
 
 * Tableau (Certified)
 
-* Power BI(currenly preparing for certification)
+* Power BI
 
 ### Bigdata Framework:
 
-  - HiveQL, Impala, Apache Spark (pyspark) 
+  -  Apache Spark (pyspark), HiveQL, Impala
  
 ### Cloud:
 
-  * AWS : EC2, S3, Redshift
+  * AWS : EC2, S3, Redshift, Amazon Sagemaker
 
-  * Azure: Azure Databricks (learning phase)
+  * Azure: Azure Databricks
 
 
 ## ETL Tool
@@ -65,7 +65,7 @@ One and only GitHub ❤️
 
 | Academic Qualification | Institution          
 | ------------- |-------------|
-| Data Science(in progress)| The University of Melbourne | 
+| Graduate Diploma in Data Science | The University of Melbourne | 
 | MBA (Major:Finance)   | IBA, The University of Dhaka |  
 | B.Sc. in Electrical & Electronic Engineering| Islamic University of Technology (IUT), Dhaka | 
 
